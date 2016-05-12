@@ -19,4 +19,5 @@ and (max-width: 1024px) {
 .div {
   // style goes here
 }
-}```
+}
+```
