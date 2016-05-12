@@ -6,7 +6,7 @@ summary:
 categories: development
 ---
 
-Media queries allow us to change styles of a content based on the characteristics of the device such as display, width, and height. It is very useful for creating of responsive sites.
+Media queries allow us to change styles of content based on the characteristics of the device such as display, width, and height. It is very useful for creating responsive sites.
 
 We can choose what characteristics we want for a device and style our content specifically for that device.
 

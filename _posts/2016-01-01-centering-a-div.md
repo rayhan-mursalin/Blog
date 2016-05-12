@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      Centering a website
+title:      Centering a div
 date:       2016-01-01 11:21:29
 summary:   
 categories: development
 ---
 
-When we want to center a website, we can put everything in a container div and give it a specific width and margin.
+We might want to center a page or part of a page so that everything is aligned nicely in the center. When we want to center a page, we can put all the contents in a container div and give it a specific width and margin.
 
 ```css
 .container {
