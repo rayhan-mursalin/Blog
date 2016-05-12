@@ -4,7 +4,7 @@ email:       hello@rayhanmursalin.com
 author:      Rayhan Mursalin
 description: "Web Development Blog"
 baseurl:     "http://rayhanmursalin.com/Blog/"
-url:        "http://rayhan-mursalin.github.io/Blog"
+url:        "http://rayhan-mursalin.github.io/Blog/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -44,7 +44,7 @@ twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username: 
+linkedin_username:
 angellist_username:
 medium_id:
 bitcoin_url:
