@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Centering a div
-date:       2016-01-01 11:21:29
+date:       2016-01-05 11:21:29
 summary:   
 categories: development
 ---
