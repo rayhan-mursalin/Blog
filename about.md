@@ -8,7 +8,7 @@ tags: about
 Hello, my name is Rayhan Mursalin. I am a junior web developer. I mainly work with Front end languages but learning some back end languages as well. I spend most of my time learning web technologies by breaking and fixing things. I enjoy travelling and taking pictures. Maintaining healthy lifestyle by eating clean and working out is very important to me.
 
 ####Skills
-* HTML ∙ CSS
+* HTML ∙ CSS ∙ Sass
 * Javascript ∙ jQuery
 * Bootstrap
 * Version Control (Github)
@@ -20,3 +20,4 @@ Hello, my name is Rayhan Mursalin. I am a junior web developer. I mainly work wi
 * CMS: Wordpress
 * DNS ∙ C-panel ∙ FTP
 * Testing & Debugging
+* Gulp
